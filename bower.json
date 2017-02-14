@@ -19,6 +19,6 @@
   "homepage": "http://www.amcharts.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/amcharts/amcharts3.git"
+    "url": "git://github.com/kevingraber/amcharts3.git"
   }
 }
